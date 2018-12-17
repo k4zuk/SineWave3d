@@ -1,0 +1,8 @@
+*
+!.gitignore
+!README*
+!LICENSE*
+!*.md
+!*.html
+!*.js
+!demo.gif
